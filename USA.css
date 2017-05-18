@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline');
+
+html {
+    background-color: black;
+    color: white;
+}
+
+h1,h2 {
+    font-family: 'Bungee Inline', cursive;
+    color: white;
+    text-align: center;
+    text-shadow: -1px 4px 1px gray;
+    text-decoration: underline;
+    display: inline;
+}
+
+div {
+    width: 80%;
+    border: 8px inset gray;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center !important;
+}
+
+span {
+    padding-left: 20px;
+}
+
+.small {
+    height: 1%;
+    width: 1%;
+}
